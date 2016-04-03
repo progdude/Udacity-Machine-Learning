@@ -1,4 +1,5 @@
-ud120-projects
-==============
+#Udacity Machine Learning
+============================
 
-Starter project code for students taking Udacity ud120
+
+My projects and coursework for the Udacity machine learning course
